@@ -1,0 +1,30 @@
+/*assigning text features*/
+body
+{
+    font-family: sans-serif;
+    text-align: center;
+    -webkit-text-stroke: 0.5px rgb(162, 26, 158)
+}
+
+/* assigning colours to background things*/
+body
+{
+    background-color: rgb(242, 219, 238);
+    border: 5px solid rgb(159, 18, 124);
+}
+
+/* assigning colours to all the text */
+.h 
+{
+   color: rgb(214, 36, 89);
+}
+
+.h2
+{
+    color:rgb(235, 60, 112);
+}
+
+.h3
+{
+    color: palevioletred;
+}
